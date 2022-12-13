@@ -1,15 +1,15 @@
-<h1 align="center">Hi ðŸ‘‹, Welcome to my profile</h1>
+<h1 align="center">Hi ‹, Welcome to my profile</h1>
 <h3 align="center">A passionate fullstack Web & Mobile developper</h3>
 
-- ðŸ”­ Iâ€™m currently working on **No Work.**
+-I'm currently working on **No Work.**
 
-- ðŸ‘¯ Iâ€™m looking to collaborate on **MERN, Python AI.**
+-I'm looking to collaborate on **MERN, Python AI.**
 
-- ðŸ“ I regularly write articles on [https://dev.to/hollyword221](https://dev.to/hollyword221)
+- I regularly write articles on [https://dev.to/hollyword221](https://dev.to/hollyword221)
 
-- ðŸ’¬ Ask me about **React, Java, Python, C/C++, PHP, Javascript**
+- Ask me about **React, Java, Python, C/C++, PHP, Javascript**
 
-- âš¡ Fun fact **Promising Consultant**
+- Fun fact **Promising Consultant**
 
 
 <h3 align="left">Connect with me:</h3>
